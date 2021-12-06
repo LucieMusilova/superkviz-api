@@ -1,9 +1,9 @@
 [
 	{
 		"id": 1,
-		"title": "Ikonické hračky 80. let",
+		"title": "Satiricko-politický kvíz",
 		"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
-		"questions": 3
+		"questions": 7
 	}
 	
 ]

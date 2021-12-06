@@ -1,40 +1,95 @@
 {
 	"id": 1,
-	"title": "Ikonické hračky 80. let",
+	"title": "Satiricko-politický kvíz",
 	"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
 	"questions": [
-		{
+    {
 			"id": 1,
-			"title": "Co je ikonická hračka z 80. let?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
+			"title": "Syn Andreje Babiše byl z dovolené na Krymu úplně...",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
 			"answers": [
-				"Kočičák",
-				"Mončičák",
-				"Opičák"
+        "zklamaný",
+				"unešený",
+				"nadšený"
 			],
 			"correctAnswer": 1
 		},
 		{
-			"id": 2,
-			"title": "Co je nejlepší stavebnice na světě?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/merkur.jpg",
+			"id": 1,
+			"title": "Jaké je oblíbené auto Aleny Schillerové?",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
 			"answers": [
-				"Lego",
-				"Duplo",
-				"Merkur"
+				"Škoda Felicia",
+				"Škoda Octavia",
+				"Škoda slov"
 			],
 			"correctAnswer": 2
 		},
 		{
-			"id": 3,
-			"title": "Lego měl málokdo, ale každý měl...?",
+			"id": 2,
+			"title": "Ruským agentem není:",
 			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
 			"answers": [
-				"Igráčka",
-				"Igora",
-				"Ignáce"
+				"Miloš Zeman",
+				"Andrej Babiš",
+				"Kamil Střihavka"
+			],
+			"correctAnswer": 2
+		},
+    {
+			"id": 3,
+			"title": "Co Andrej nikdy neřekl?",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
+			"answers": [
+				"Točítě pořady na objednávku!",
+				"Kalousek!",
+				"Já to všechno vrátím."
+			],
+			"correctAnswer": 2
+		},
+    {
+			"id": 4,
+			"title": "Nejoblíbenější zvíře Miloše Zemana je: ",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
+			"answers": [
+				"Čmeláček",
+				"Prasáček",
+				"Ovčáček"
+			],
+			"correctAnswer": 2
+		},
+    {
+			"id": 5,
+			"title": "Doplňte pořekadlo: 'Motýle a včele...'",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
+			"answers": [
+				"...chcou Babiše v cele",
+				"...mají všechno u zádele",
+				"...vletí do kabele"
 			],
 			"correctAnswer": 0
+		},
+    {
+			"id": 7,
+			"title": "Vánoční přání od Miloše Zemana je: ",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
+			"answers": [
+        "Šťastné a veselé",
+				"Veselé izolace a šťastný nový lock",
+				"счастливого Рождества"
+			],
+			"correctAnswer": 2
+		},
+    {
+			"id": 1,
+			"title": "Jaké je oblíbené auto Aleny Schillerové?",
+			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
+			"answers": [
+				"Škoda Felicia",
+				"Škoda Octavia",
+				"Škoda slov"
+			],
+			"correctAnswer": 2
 		}
 	]
 }
