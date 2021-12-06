@@ -1,12 +1,12 @@
 {
 	"id": 1,
 	"title": "Satiricko-politický kvíz",
-	"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
+	"image": "https://github.com/LucieMusilova/superkviz-api/raw/main/images/otazka3.jpg",
 	"questions": [
     {
 			"id": 1,
 			"title": "Syn Andreje Babiše byl z dovolené na Krymu úplně...",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
+			"image": "https://github.com/LucieMusilova/superkviz-api/raw/main/images/otazka1.jpg",
 			"answers": [
         "zklamaný",
 				"unešený",
@@ -15,20 +15,9 @@
 			"correctAnswer": 1
 		},
 		{
-			"id": 1,
-			"title": "Jaké je oblíbené auto Aleny Schillerové?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
-			"answers": [
-				"Škoda Felicia",
-				"Škoda Octavia",
-				"Škoda slov"
-			],
-			"correctAnswer": 2
-		},
-		{
 			"id": 2,
 			"title": "Ruským agentem není:",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
+			"image": "https://github.com/LucieMusilova/superkviz-api/raw/main/images/otazka2.jpg",
 			"answers": [
 				"Miloš Zeman",
 				"Andrej Babiš",
@@ -39,7 +28,7 @@
     {
 			"id": 3,
 			"title": "Co Andrej nikdy neřekl?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
+			"image": "https://github.com/LucieMusilova/superkviz-api/raw/main/images/otazka3.jpg",
 			"answers": [
 				"Točítě pořady na objednávku!",
 				"Kalousek!",
@@ -50,7 +39,7 @@
     {
 			"id": 4,
 			"title": "Nejoblíbenější zvíře Miloše Zemana je: ",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
+			"image": "https://github.com/LucieMusilova/superkviz-api/raw/main/images/otazka4.jpg",
 			"answers": [
 				"Čmeláček",
 				"Prasáček",
@@ -61,7 +50,7 @@
     {
 			"id": 5,
 			"title": "Doplňte pořekadlo: 'Motýle a včele...'",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
+			"image": "https://github.com/LucieMusilova/superkviz-api/raw/main/images/otazka5.jpg",
 			"answers": [
 				"...chcou Babiše v cele",
 				"...mají všechno u zádele",
@@ -72,7 +61,7 @@
     {
 			"id": 7,
 			"title": "Vánoční přání od Miloše Zemana je: ",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/igracek.jpg",
+			"image": "https://github.com/LucieMusilova/superkviz-api/raw/main/images/otazka6.jpg",
 			"answers": [
         "Šťastné a veselé",
 				"Veselé izolace a šťastný nový lock",
@@ -83,7 +72,7 @@
     {
 			"id": 1,
 			"title": "Jaké je oblíbené auto Aleny Schillerové?",
-			"image": "https://github.com/Czechitas-React-podklady/superkviz-api/raw/main/images/moncicak.jpg",
+			"image": "https://github.com/LucieMusilova/superkviz-api/raw/main/images/otazka7.jpg",
 			"answers": [
 				"Škoda Felicia",
 				"Škoda Octavia",
